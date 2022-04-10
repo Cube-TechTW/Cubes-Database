@@ -1,2 +1,15 @@
 # Cubes-Database
-A Database that contains malwares, ransomwares. Use this with your own risk.
+I am not responsible for any damage or loss caused by the files in Cubes-Database.
+
+The list of files:
+
+Home
+  README.md
+  LICENSE
+  Ransomware
+    Petya.zip
+    WannaCry.zip
+   Trojan
+    000.zip
+    MEMZ.zip
+    NoEscape.zip
