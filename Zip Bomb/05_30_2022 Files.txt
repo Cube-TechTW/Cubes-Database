@@ -1,0 +1,7 @@
+05_30_2022.zip
+    0.zip (x128)
+        0.zip (x128)
+            0.zip (x512)
+                0.txt [Size: 4GB]
+                
+Total Extracted Size: 32PB
