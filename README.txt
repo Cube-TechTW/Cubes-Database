@@ -15,6 +15,7 @@ Cubes-Database
         MEMZ.zip
         NoEscape.zip
     Zip Bomb
-        0.zip
+        05_30_2022.zip
+        05_30_2022 Files.txt
 
 Password of all zip files: "Cube"
